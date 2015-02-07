@@ -1,0 +1,14 @@
+[
+  {
+    "remote":      "koron393",
+    "repository":  "android_device_htc_msm8960-common",
+    "target_path": "device/htc/msm8960-common",
+    "revision":    "eos-lp-caf"
+  },
+  {
+    "remote":      "github",
+    "repository":  "kbc-developers/android_kernel_htc_msm8960",
+    "target_path": "kernel/htc/msm8960",
+    "revision":    "cm-12.0"
+  }
+]
